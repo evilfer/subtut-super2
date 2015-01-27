@@ -1,0 +1,6 @@
+[submodule "subtut-a"]
+	path = subtut-a
+	url = https://github.com/evilfer/subtut-a.git
+[submodule "subtut-b"]
+	path = subtut-b
+	url = https://github.com/evilfer/subtut-b.git
